@@ -17,11 +17,5 @@ class Usuario:
     def boot(self):
         self.Temp = []
         self.puestos_temp = 0
-        
-
-class Registro:
-    def __init__(self, vuelo, puestos):
-        self.vuelo = vuelo
-        self.puestos = puestos
-        
+               
 
